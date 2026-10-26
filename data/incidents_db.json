@@ -1,0 +1,417 @@
+[
+  {
+    "incident_id": "INC-20261026-0001",
+    "timestamp": 1793004305.1409538,
+    "formatted_time": "2026-10-26 14:15:05",
+    "camera_id": "CAM-01",
+    "risk_level": "MEDIUM",
+    "safety_score": 75.0,
+    "primary_hazard": "Missing Safety Hardhat",
+    "violations": [
+      "Worker #1 observed without head protection [Transient/Unconfirmed] (-25.0%)"
+    ],
+    "workers_involved": [
+      1
+    ],
+    "status": "OPEN",
+    "priority": 3,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0001_1793004305.jpg",
+    "recommended_action": "Mandate Worker #1 to equip approved EN397/ANSI Z89.1 hardhat.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:15:05",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level MEDIUM (Score: 75.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0002",
+    "timestamp": 1793004371.0202816,
+    "formatted_time": "2026-10-26 14:16:11",
+    "camera_id": "CAM-01",
+    "risk_level": "MEDIUM",
+    "safety_score": 75.0,
+    "primary_hazard": "Missing Safety Hardhat",
+    "violations": [
+      "Worker #1 observed without head protection [Transient/Unconfirmed] (-25.0%)"
+    ],
+    "workers_involved": [
+      1
+    ],
+    "status": "OPEN",
+    "priority": 3,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0002_1793004371.jpg",
+    "recommended_action": "Mandate Worker #1 to equip approved EN397/ANSI Z89.1 hardhat.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:16:11",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level MEDIUM (Score: 75.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0003",
+    "timestamp": 1793004743.6821563,
+    "formatted_time": "2026-10-26 14:22:23",
+    "camera_id": "CAM-01",
+    "risk_level": "MEDIUM",
+    "safety_score": 75.0,
+    "primary_hazard": "Missing Safety Hardhat",
+    "violations": [
+      "Worker #1 observed without head protection [Transient/Unconfirmed] (-25.0%)"
+    ],
+    "workers_involved": [
+      1
+    ],
+    "status": "OPEN",
+    "priority": 3,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0003_1793004743.jpg",
+    "recommended_action": "Mandate Worker #1 to equip approved EN397/ANSI Z89.1 hardhat.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:22:23",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level MEDIUM (Score: 75.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0004",
+    "timestamp": 1793004778.283466,
+    "formatted_time": "2026-10-26 14:22:58",
+    "camera_id": "CAM-01",
+    "risk_level": "MEDIUM",
+    "safety_score": 75.0,
+    "primary_hazard": "Missing Safety Hardhat",
+    "violations": [
+      "Worker #1 observed without head protection [Transient/Unconfirmed] (-25.0%)"
+    ],
+    "workers_involved": [
+      1
+    ],
+    "status": "OPEN",
+    "priority": 3,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0004_1793004778.jpg",
+    "recommended_action": "Mandate Worker #1 to equip approved EN397/ANSI Z89.1 hardhat.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:22:58",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level MEDIUM (Score: 75.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0005",
+    "timestamp": 1793004783.271947,
+    "formatted_time": "2026-10-26 14:23:03",
+    "camera_id": "CAM-01",
+    "risk_level": "HIGH",
+    "safety_score": 45.0,
+    "primary_hazard": "Exclusion Danger Zone Intrusion",
+    "violations": [
+      "Worker #10 encroached prohibited exclusion zone: Hydraulic Press & Laser Cutting Perimeter [Transient/Unconfirmed] (-35.0%)",
+      "Worker #10 in Hydraulic Press & Laser Cutting Perimeter without mandatory safety vest [Transient/Unconfirmed] (-20.0%)"
+    ],
+    "workers_involved": [
+      10
+    ],
+    "status": "OPEN",
+    "priority": 2,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0005_1793004783.jpg",
+    "recommended_action": "Alert supervisor: Evacuate Worker #10 from ZONE-01-DANGER immediately.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:23:03",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level HIGH (Score: 45.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0006",
+    "timestamp": 1793005387.370902,
+    "formatted_time": "2026-10-26 14:33:07",
+    "camera_id": "CAM-01",
+    "risk_level": "CRITICAL",
+    "safety_score": 15.0,
+    "primary_hazard": "Missing High-Vis Safety Vest",
+    "violations": [
+      "Worker #1 observed without high-vis safety vest [Transient/Unconfirmed] (-20.0%)",
+      "Worker #2 observed without head protection [Transient/Unconfirmed] (-25.0%)",
+      "Worker #2 observed without high-vis safety vest [Transient/Unconfirmed] (-20.0%)",
+      "Worker #3 in Forklift Material Transit Lane without mandatory safety vest [Transient/Unconfirmed] (-20.0%)"
+    ],
+    "workers_involved": [
+      1,
+      2,
+      3
+    ],
+    "status": "OPEN",
+    "priority": 1,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0006_1793005387.jpg",
+    "recommended_action": "Dispatch Class-2/Class-3 high-vis vest to Worker #1.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:33:07",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level CRITICAL (Score: 15.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0007",
+    "timestamp": 1793005527.2256842,
+    "formatted_time": "2026-10-26 14:35:27",
+    "camera_id": "CAM-01",
+    "risk_level": "MEDIUM",
+    "safety_score": 75.0,
+    "primary_hazard": "Missing Safety Hardhat",
+    "violations": [
+      "Worker #1 observed without head protection [Transient/Unconfirmed] (-25.0%)"
+    ],
+    "workers_involved": [
+      1
+    ],
+    "status": "OPEN",
+    "priority": 3,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0007_1793005527.jpg",
+    "recommended_action": "Mandate Worker #1 to equip approved EN397/ANSI Z89.1 hardhat.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:35:27",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level MEDIUM (Score: 75.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0008",
+    "timestamp": 1793005531.0177753,
+    "formatted_time": "2026-10-26 14:35:31",
+    "camera_id": "CAM-01",
+    "risk_level": "HIGH",
+    "safety_score": 45.0,
+    "primary_hazard": "Exclusion Danger Zone Intrusion",
+    "violations": [
+      "Worker #10 encroached prohibited exclusion zone: Hydraulic Press & Laser Cutting Perimeter [Transient/Unconfirmed] (-35.0%)",
+      "Worker #10 in Hydraulic Press & Laser Cutting Perimeter without mandatory safety vest [Transient/Unconfirmed] (-20.0%)"
+    ],
+    "workers_involved": [
+      10
+    ],
+    "status": "OPEN",
+    "priority": 2,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0008_1793005531.jpg",
+    "recommended_action": "Alert supervisor: Evacuate Worker #10 from ZONE-01-DANGER immediately.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:35:31",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level HIGH (Score: 45.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0009",
+    "timestamp": 1793005538.004662,
+    "formatted_time": "2026-10-26 14:35:38",
+    "camera_id": "CAM-01",
+    "risk_level": "MEDIUM",
+    "safety_score": 80.0,
+    "primary_hazard": "Missing High-Vis Safety Vest",
+    "violations": [
+      "Worker #14 observed without high-vis safety vest [Transient/Unconfirmed] (-20.0%)"
+    ],
+    "workers_involved": [
+      14
+    ],
+    "status": "OPEN",
+    "priority": 3,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0009_1793005538.jpg",
+    "recommended_action": "Dispatch Class-2/Class-3 high-vis vest to Worker #14.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:35:38",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level MEDIUM (Score: 80.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0010",
+    "timestamp": 1793006688.8189585,
+    "formatted_time": "2026-10-26 14:54:48",
+    "camera_id": "CAM-01",
+    "risk_level": "MEDIUM",
+    "safety_score": 80.0,
+    "primary_hazard": "Missing High-Vis Safety Vest",
+    "violations": [
+      "Worker #7 in Designated Pedestrian Green Walkway without mandatory safety vest [Transient/Unconfirmed] (-20.0%)"
+    ],
+    "workers_involved": [
+      7
+    ],
+    "status": "OPEN",
+    "priority": 3,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0010_1793006688.jpg",
+    "recommended_action": "Dispatch Class-2/Class-3 high-vis vest to Worker #7.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:54:48",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level MEDIUM (Score: 80.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0011",
+    "timestamp": 1793006697.1561115,
+    "formatted_time": "2026-10-26 14:54:57",
+    "camera_id": "CAM-01",
+    "risk_level": "MEDIUM",
+    "safety_score": 75.0,
+    "primary_hazard": "Missing Safety Hardhat",
+    "violations": [
+      "Worker #22 observed without head protection [Transient/Unconfirmed] (-25.0%)"
+    ],
+    "workers_involved": [
+      22
+    ],
+    "status": "OPEN",
+    "priority": 3,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0011_1793006697.jpg",
+    "recommended_action": "Mandate Worker #22 to equip approved EN397/ANSI Z89.1 hardhat.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:54:57",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level MEDIUM (Score: 75.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0012",
+    "timestamp": 1793006700.627966,
+    "formatted_time": "2026-10-26 14:55:00",
+    "camera_id": "CAM-01",
+    "risk_level": "MEDIUM",
+    "safety_score": 80.0,
+    "primary_hazard": "Missing High-Vis Safety Vest",
+    "violations": [
+      "Worker #27 in Designated Pedestrian Green Walkway without mandatory safety vest [Transient/Unconfirmed] (-20.0%)"
+    ],
+    "workers_involved": [
+      27
+    ],
+    "status": "OPEN",
+    "priority": 3,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0012_1793006700.jpg",
+    "recommended_action": "Dispatch Class-2/Class-3 high-vis vest to Worker #27.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:55:00",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level MEDIUM (Score: 80.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0013",
+    "timestamp": 1793006711.4674222,
+    "formatted_time": "2026-10-26 14:55:11",
+    "camera_id": "CAM-01",
+    "risk_level": "HIGH",
+    "safety_score": 60.0,
+    "primary_hazard": "Missing High-Vis Safety Vest",
+    "violations": [
+      "Worker #41 in Designated Pedestrian Green Walkway without mandatory safety vest [Transient/Unconfirmed] (-20.0%)",
+      "Worker #42 in Designated Pedestrian Green Walkway without mandatory safety vest [Transient/Unconfirmed] (-20.0%)"
+    ],
+    "workers_involved": [
+      41,
+      42
+    ],
+    "status": "OPEN",
+    "priority": 2,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0013_1793006711.jpg",
+    "recommended_action": "Dispatch Class-2/Class-3 high-vis vest to Worker #41.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 14:55:11",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level HIGH (Score: 60.0%)"
+      }
+    ]
+  },
+  {
+    "incident_id": "INC-20261026-0014",
+    "timestamp": 1793007753.6211305,
+    "formatted_time": "2026-10-26 15:12:33",
+    "camera_id": "CAM-01",
+    "risk_level": "MEDIUM",
+    "safety_score": 75.0,
+    "primary_hazard": "Missing Safety Hardhat",
+    "violations": [
+      "Worker #1 observed without head protection [Transient/Unconfirmed] (-25.0%)"
+    ],
+    "workers_involved": [
+      1
+    ],
+    "status": "OPEN",
+    "priority": 3,
+    "assigned_to": "Safety Duty Supervisor",
+    "resolution_notes": "",
+    "evidence_image_path": "C:\\Users\\Dell\\Downloads\\product-order-management\\data\\incident_evidence\\INC-20261026-0014_1793007753.jpg",
+    "recommended_action": "Mandate Worker #1 to equip approved EN397/ANSI Z89.1 hardhat.",
+    "history": [
+      {
+        "timestamp": "2026-10-26 15:12:33",
+        "action": "AUTO_GENERATED",
+        "actor": "System AI Risk Engine",
+        "note": "Incident triggered with risk level MEDIUM (Score: 75.0%)"
+      }
+    ]
+  }
+]

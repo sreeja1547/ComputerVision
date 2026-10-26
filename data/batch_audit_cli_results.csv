@@ -1,0 +1,16 @@
+source_name,worker_count,safety_score,risk_level,primary_hazard,violations
+building-construction-building-site-constructing.jpg,0,100.0,LOW,None - Safe Operations,[]
+career-firefighter-relaxing-job-162540.jpeg,2,75.0,MEDIUM,Missing Safety Hardhat,['Missing Safety Hardhat']
+carrying-head-indian-farm-worker-158011.jpeg,1,100.0,LOW,None - Safe Operations,[]
+construction-site-build-construction-work-159306.jpeg,2,100.0,LOW,None - Safe Operations,[]
+construction-site-build-construction-work-159358.jpeg,3,100.0,LOW,None - Safe Operations,[]
+construction-site-build-construction-work-159375.jpeg,1,100.0,LOW,None - Safe Operations,[]
+floor-flooring-hand-man-1388944.jpeg,2,45.0,HIGH,Exclusion Danger Zone Intrusion,"['Exclusion Danger Zone Intrusion', 'Missing High-Vis Safety Vest']"
+gardener-worker-gardening-machinery-162564.jpeg,1,100.0,LOW,None - Safe Operations,[]
+grinder-hitachi-power-tool-flexible-162625.jpeg,0,100.0,LOW,None - Safe Operations,[]
+harvest-grain-combine-arable-farming-163752.jpeg,0,100.0,LOW,None - Safe Operations,[]
+pexels-photo-10039979.jpeg,1,65.0,HIGH,Exclusion Danger Zone Intrusion,['Exclusion Danger Zone Intrusion']
+pexels-photo-10039988.jpeg,1,100.0,LOW,None - Safe Operations,[]
+pexels-photo-10039989.jpeg,0,100.0,LOW,None - Safe Operations,[]
+pexels-photo-10039997.jpeg,2,80.0,MEDIUM,Missing High-Vis Safety Vest,['Missing High-Vis Safety Vest']
+pexels-photo-10040003.jpeg,1,80.0,MEDIUM,Missing High-Vis Safety Vest,['Missing High-Vis Safety Vest']

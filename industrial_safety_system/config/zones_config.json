@@ -1,0 +1,97 @@
+{
+  "cameras": {
+    "CAM-01": {
+      "camera_name": "Heavy Fabrication & Press Bay",
+      "location": "Building A - Sector 3",
+      "zones": [
+        {
+          "zone_id": "ZONE-01-DANGER",
+          "name": "Hydraulic Press & Laser Cutting Perimeter",
+          "type": "DANGER",
+          "color": "#FF2A2A",
+          "points": [
+            [0.10, 0.45],
+            [0.45, 0.45],
+            [0.45, 0.95],
+            [0.10, 0.95]
+          ],
+          "required_ppe": ["helmet", "vest", "boots", "gloves", "goggles"],
+          "prohibited_personnel": true,
+          "description": "Robotic hydraulic press workspace. Authorized robotics technicians only."
+        },
+        {
+          "zone_id": "ZONE-01-CAUTION",
+          "name": "Forklift Material Transit Lane",
+          "type": "CAUTION",
+          "color": "#FFB800",
+          "points": [
+            [0.48, 0.35],
+            [0.75, 0.35],
+            [0.75, 0.95],
+            [0.48, 0.95]
+          ],
+          "required_ppe": ["helmet", "vest", "boots"],
+          "prohibited_personnel": false,
+          "description": "Active forklift transit corridor. High-vis vest strictly required."
+        },
+        {
+          "zone_id": "ZONE-01-SAFE",
+          "name": "Designated Pedestrian Green Walkway",
+          "type": "SAFE",
+          "color": "#00FF66",
+          "points": [
+            [0.78, 0.30],
+            [0.98, 0.30],
+            [0.98, 0.95],
+            [0.78, 0.95]
+          ],
+          "required_ppe": ["vest"],
+          "prohibited_personnel": false,
+          "description": "Protected pedestrian aisle with guardrails."
+        }
+      ]
+    },
+    "CAM-02": {
+      "camera_name": "Loading Dock & Staging Yard",
+      "location": "Warehouse Logistics Terminal B",
+      "zones": [
+        {
+          "zone_id": "ZONE-02-DANGER",
+          "name": "Trailer Docking Bay & Fall Edge",
+          "type": "DANGER",
+          "color": "#FF2A2A",
+          "points": [
+            [0.15, 0.50],
+            [0.85, 0.50],
+            [0.85, 0.98],
+            [0.15, 0.98]
+          ],
+          "required_ppe": ["helmet", "vest", "boots"],
+          "prohibited_personnel": false,
+          "description": "Active truck backing and dock edge drop hazard."
+        }
+      ]
+    },
+    "CAM-03": {
+      "camera_name": "Chemical & Thermal Processing Cell",
+      "location": "Process Plant Unit 4",
+      "zones": [
+        {
+          "zone_id": "ZONE-03-DANGER",
+          "name": "Molten Furnace & Exhaust Vent Perimeter",
+          "type": "DANGER",
+          "color": "#FF2A2A",
+          "points": [
+            [0.20, 0.30],
+            [0.80, 0.30],
+            [0.80, 0.85],
+            [0.20, 0.85]
+          ],
+          "required_ppe": ["helmet", "vest", "boots", "gloves", "goggles"],
+          "prohibited_personnel": true,
+          "description": "High temperature radiation and chemical splash zone."
+        }
+      ]
+    }
+  }
+}
